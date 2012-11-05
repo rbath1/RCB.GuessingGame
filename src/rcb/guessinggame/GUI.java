@@ -1,7 +1,3 @@
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
 package rcb.guessinggame;
 
 import javax.swing.JOptionPane;
@@ -10,16 +6,14 @@ import java.awt.Window;
 
 /**
  *
- * @author Bob
+ * @author Robert Bath
  */
 public class GUI extends javax.swing.JFrame {
 private GuessingGameService ggs = new GuessingGameService();
 private String userGuess;
 private Window parent;
 
-    /**
-     * Creates new form NewJFrame
-     */
+  
     public GUI() {
         initComponents();
     }

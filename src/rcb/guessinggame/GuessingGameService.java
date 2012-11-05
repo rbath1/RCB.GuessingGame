@@ -1,10 +1,8 @@
 package rcb.guessinggame;
 
-
-
 /**
  *
- * @author Bob
+ * @author Robert Bath
  */
 public class GuessingGameService {
 private int answerConv;

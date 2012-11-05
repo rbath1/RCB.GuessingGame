@@ -4,7 +4,7 @@ import javax.swing.UIManager;
 
 /**
  *
- * @author Bob
+ * @author Robert Bath
  */
 public class Startup {
 
